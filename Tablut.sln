@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tablut", "Tablut\Tablut.vcxproj", "{B7A40135-0CD2-43D9-A105-FC63BB2BC803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Debug|Win32.Build.0 = Debug|Win32
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Debug|x64.ActiveCfg = Debug|x64
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Debug|x64.Build.0 = Debug|x64
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Release|Win32.ActiveCfg = Release|Win32
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Release|Win32.Build.0 = Release|Win32
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Release|x64.ActiveCfg = Release|x64
+		{B7A40135-0CD2-43D9-A105-FC63BB2BC803}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
